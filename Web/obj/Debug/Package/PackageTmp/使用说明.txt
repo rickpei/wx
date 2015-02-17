@@ -1,0 +1,22 @@
+
+使用Weback.Net系统需要注意以下几点：
+1、这次发布的是全选版本，与老版本（131010之前的版本）的Weback系统采用了不同的架构，功能定位也不一样，所以不提供更新服务。
+2、本次发布的代码，支持MYSQL、SQLSERVER、Access三种数据库，默认使用的Access数据库，但推荐大家使用MYSQL或SQLSERVER。
+3、使用本系统，需要对网站UserData目录拥有写入权限；
+4、本系统初次运行时会自动创建一个默认帐号：demo，密码：123456
+5、131010之后的版本升级时，请直接将原有程序的"BaseData"、"UsersData"、"Upload"、“xcenter”文件夹及“xcore.mdb”数据库文件拷贝过来替换。
+
+APP及API接口提供针对特定内容的转发功能，其中APP不带验证信息，API会重新模拟微信公众平台的请求进行转发，使用方式如下：
+在关键字自动回复中添加“基本文字回复”类型，内容填写“Api:”或“App:”+“转发网址”，如：Api:http://mpapi.eeruo.cn/wxapi.aspx 此规则在首次关注和默认回复中也有效果。
+
+
+
+数据库的配置请在/xcenter/conf/orm.config文件中修改,同时提供了mysql.orm.config、sqlserver.orm.config、access.orm.config三个示例文件，对应三种不同的数据库，您可以将其中的内容拷贝到orm.config中使用。
+
+
+2013年10月15日 更新
+1.自定义事件的响应问题；；
+2.自定义菜单操作界面添加快速选择Key值的功能；
+3.完善了编辑器及Logo、Banner等图片上传问题；
+4.恢复了公共页面的Tips提示信息；
+5.修复了部分图文连接；

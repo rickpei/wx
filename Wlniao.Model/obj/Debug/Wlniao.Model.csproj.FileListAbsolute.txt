@@ -1,0 +1,23 @@
+C:\Documents and Settings\Administrator\桌面\Weback.SourceCode\Wlniao.Model\bin\Debug\Wlniao.Model.dll
+C:\Documents and Settings\Administrator\桌面\Weback.SourceCode\Wlniao.Model\bin\Debug\Wlniao.Model.pdb
+C:\Documents and Settings\Administrator\桌面\Weback.SourceCode\Wlniao.Model\bin\Debug\XCore.dll
+C:\Documents and Settings\Administrator\桌面\Weback.SourceCode\Wlniao.Model\bin\Debug\XCore.pdb
+C:\Documents and Settings\Administrator\桌面\Weback.SourceCode\Wlniao.Model\bin\Debug\XCore.xml
+C:\Documents and Settings\Administrator\桌面\Weback.SourceCode\Wlniao.Model\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\Weback.SourceCode\Wlniao.Model\obj\Debug\Wlniao.Model.dll
+C:\Documents and Settings\Administrator\桌面\Weback.SourceCode\Wlniao.Model\obj\Debug\Wlniao.Model.pdb
+C:\Weback.SourceCode\Wlniao.Model\bin\Debug\Wlniao.Model.dll
+C:\Weback.SourceCode\Wlniao.Model\bin\Debug\Wlniao.Model.pdb
+C:\Weback.SourceCode\Wlniao.Model\bin\Debug\XCore.dll
+C:\Weback.SourceCode\Wlniao.Model\bin\Debug\XCore.pdb
+C:\Weback.SourceCode\Wlniao.Model\bin\Debug\XCore.xml
+C:\Weback.SourceCode\Wlniao.Model\obj\Debug\ResolveAssemblyReference.cache
+C:\Weback.SourceCode\Wlniao.Model\obj\Debug\Wlniao.Model.dll
+C:\Weback.SourceCode\Wlniao.Model\obj\Debug\Wlniao.Model.pdb
+E:\weixin\Weback.SourceCode.131031\Wlniao.Model\bin\Debug\Wlniao.Model.dll
+E:\weixin\Weback.SourceCode.131031\Wlniao.Model\bin\Debug\Wlniao.Model.pdb
+E:\weixin\Weback.SourceCode.131031\Wlniao.Model\bin\Debug\XCore.dll
+E:\weixin\Weback.SourceCode.131031\Wlniao.Model\bin\Debug\XCore.xml
+E:\weixin\Weback.SourceCode.131031\Wlniao.Model\obj\Debug\ResolveAssemblyReference.cache
+E:\weixin\Weback.SourceCode.131031\Wlniao.Model\obj\Debug\Wlniao.Model.dll
+E:\weixin\Weback.SourceCode.131031\Wlniao.Model\obj\Debug\Wlniao.Model.pdb

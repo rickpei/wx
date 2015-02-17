@@ -1,0 +1,1 @@
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="menuajax.aspx.cs" Inherits="Wlniao.Wx.MenuAjax" %>
