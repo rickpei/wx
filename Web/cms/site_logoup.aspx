@@ -1,1 +1,0 @@
-﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="site_logoup.aspx.cs" Inherits="Wlniao.Cms.SiteLogoUp" %>
