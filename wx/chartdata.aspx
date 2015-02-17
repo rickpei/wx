@@ -1,0 +1,1 @@
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="chartdata.aspx.cs" Inherits="Wlniao.Wx.ChartData" %>
